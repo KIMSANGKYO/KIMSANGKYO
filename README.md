@@ -9,6 +9,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KIMSANGKYO&theme=solarized) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KIMSANGKYO&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KIMSANGKYO&theme=solarized)
+
+
+##  💫 Algorithm 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codekyo)](https://solved.ac/codekyo/)
 
 
