@@ -6,9 +6,9 @@
 </div>
 
 ##  🌱 Stats 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KIMSANGKYO&theme=solarized) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KIMSANGKYO&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KIMSANGKYO&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KIMSANGKYO&theme=tokyonight) 
+![](https://github-readme-stats.vercel.app/api?username=KIMSANGKYO&show_icons=true&theme=merko)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMSANGKYO&layout=compact&theme=merko&card_width=600px)
 
 
 
