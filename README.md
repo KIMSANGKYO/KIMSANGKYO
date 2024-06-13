@@ -19,9 +19,9 @@
 </div>
 
 ##  🌱 Stats 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KIMSANGKYO&theme=dracula) 
-![](https://github-readme-stats.vercel.app/api?username=KIMSANGKYO&show_icons=true&theme=dracula&card_width=600px)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMSANGKYO&layout=compact&theme=dracula&card_width=600px)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KIMSANGKYO&theme=dracula&count_private=true) 
+![](https://github-readme-stats.vercel.app/api?username=KIMSANGKYO&show_icons=true&theme=dracula&card_width=600px&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMSANGKYO&layout=compact&theme=dracula&card_width=600px&count_private=true)
 
 
 
