@@ -36,7 +36,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=KIMSANGKYO&show_icons=true&count_private=true" alt="GitHub Stats" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMSANGKYO&count_private=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMSANGKYO&count_private=true" alt="Top Languages" style="width:400px;" />
   </div>
 </div>
 
