@@ -28,17 +28,9 @@
 </div>
 
 ##  🌱 Stats 
-<div>
-  <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KIMSANGKYO&count_private=true" alt="Profile Details" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=KIMSANGKYO&show_icons=true&count_private=true" alt="GitHub Stats" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMSANGKYO&count_private=true" alt="Top Languages" style="width:400px;" />
-  </div>
-</div>
+![](https://kyo-readme-stats.vercel.app/api?username=KIMSANGKYO&show_icons=true&theme=dracula&card_width=600px&count_private=true)
+![](https://kyo-readme-stats.vercel.app/api/top-langs/?username=KIMSANGKYO&layout=compact&theme=dracula&card_width=600px&count_private=true)
+
 
 
 
